@@ -1,2 +1,2 @@
-# instagram-profile-clone
-Instagram profile clone
+# Opedepodepes-Olugbemi.github.io
+Instaclone-Submission
